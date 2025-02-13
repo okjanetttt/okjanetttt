@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/okjanetttt](https://github.com/okjanetttt)
 
-- 💬 Ask me about **HTML, Css, Javascript and Figma**
+- 💬 Ask me about **HTML, CSS, Javascript and Figma**
 
 - 📫 How to reach me **herminahbonolo01@gmail.com**
 
