@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bonolo Jante Morake</h1>
+<h1 align="center">Hi 👋, I'm Bonolo Janet Morake</h1>
 <h3 align="center">Web & Mobile Developer | Passionate about coding and building impactful software solutions. Full-stack & UI/UX enthusiast. 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okjanetttt" alt="okjanetttt" /></a> </p>
